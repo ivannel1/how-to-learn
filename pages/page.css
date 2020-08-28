@@ -22,7 +22,9 @@
 @import url(../blocks/content/techniques/techniques.css);
 @import url(../blocks/content/techniques/cards/cards.css);
 @import url(../blocks/content/techniques/section-title/section-title.css);
+@import url(../blocks/content/kaufman/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/content/techniques/section-subtitle/section-subtitle.css);
+@import url(../blocks/content/kaufman/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../blocks/content/techniques/cards/__description/cards__description.css);
 @import url(../blocks/content/techniques/cards/__image/cards__image.css);
 @import url(../blocks/content/techniques/cards/__item/cards__item.css);
@@ -30,8 +32,6 @@
 @import url(../blocks/content/techniques/cards/__title/cards__title.css);
 
 @import url(../blocks/content/video/video.css);
-@import url(../blocks/content/video/section-title/section-title.css);
-@import url(../blocks/content/video/section-subtitle/section-subtitle.css);
 @import url(../blocks/content/video/__iframe/video__iframe.css);
 @import url(../blocks/content/video/__iframe/__iframe_nth-of-type/video__iframe.css);
 @import url(../blocks/content/video/__iframes/video__iframes.css);
@@ -46,8 +46,6 @@
 @import url(../blocks/content/feynman/__image/feynman__image.css);
 
 @import url(../blocks/content/digits/digits.css);
-@import url(../blocks/content/digits/section-title/section-title.css);
-@import url(../blocks/content/digits/section-subtitle/section-subtitle.css);
 @import url(../blocks/content/digits/table/table.css);
 @import url(../blocks/content/digits/table/_theme/table_theme_dark.css);
 @import url(../blocks/content/digits/table/__text/table__text.css);
@@ -71,10 +69,6 @@
 
 @import url(../blocks/content/kaufman/kaufman.css);
 @import url(../blocks/content/kaufman/__triangle/kaufman__triangle.css);
-@import url(../blocks/content/kaufman/section-title/section-title.css);
-@import url(../blocks/content/kaufman/section-title/_theme/section-title_theme_dark.css);
-@import url(../blocks/content/kaufman/section-subtitle/section-subtitle.css);
-@import url(../blocks/content/kaufman/section-subtitle/_theme/section-subtitle_theme_dark.css);
 
 @import url(../blocks/content/resources/resources.css);
 @import url(../blocks/content/resources/__logo/resources__logo.css);
